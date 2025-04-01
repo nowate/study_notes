@@ -1,1 +1,3 @@
-# study_notes
+# 个人学习笔记
+## 线性代数的本质（3blue1brown）
+- 序言

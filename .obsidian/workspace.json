@@ -6,6 +6,7 @@
       {
         "id": "d5d8059f856eef5b",
         "type": "tabs",
+        "dimension": 62.66816143497758,
         "children": [
           {
             "id": "17ee6c54fd11d6cb",
@@ -13,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "线性代数的本质/序言.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "序言"
+              "title": "README"
             }
           }
         ]
@@ -26,15 +27,20 @@
       {
         "id": "da575f9c3a042a0c",
         "type": "tabs",
+        "dimension": 37.33183856502242,
         "children": [
           {
             "id": "a0626bb755ffaa5a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ]
@@ -110,6 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +126,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "README 的反向链接列表"
             }
           },
           {
@@ -128,11 +135,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "出链"
+              "title": "README 的出链列表"
             }
           },
           {
@@ -156,12 +164,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "README 的大纲"
             }
           },
           {
@@ -192,10 +201,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a0626bb755ffaa5a",
+  "active": "17ee6c54fd11d6cb",
   "lastOpenFiles": [
-    "README.md",
     "线性代数的本质/序言.md",
+    "README.md",
     "欢迎.md",
     "线性代数的本质"
   ]
