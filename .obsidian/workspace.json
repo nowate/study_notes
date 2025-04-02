@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-04-02.md",
+                "file": "线性代数的本质/线性代数的本质（数形结合）.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-04-02"
+              "title": "线性代数的本质（数形结合）"
             }
           }
         ]
@@ -179,10 +179,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2a08da35af90177b",
+  "active": "17ee6c54fd11d6cb",
   "lastOpenFiles": [
-    "线性代数的本质/线性代数的本质（数形结合）.md",
     "2025-04-02.md",
+    "线性代数的本质/线性代数的本质（数形结合）.md",
     "线性代数的本质/图片",
     "线性代数的本质/图片/Pasted image 20250402213952.png",
     "线性代数的本质/图片/Pasted image 20250402215327.png",
