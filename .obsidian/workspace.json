@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "王道计算机组成原理笔记 .md",
+                "file": "实训笔记/Day 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "王道计算机组成原理笔记"
+              "title": "Day 1"
             }
           }
         ],
@@ -197,9 +197,12 @@
   },
   "active": "1486863c28810e85",
   "lastOpenFiles": [
-    "C++/未命名.md",
-    "王道计算机组成原理笔记 .md",
     "线性代数的本质/线性代数的本质（数形结合）.md",
+    "实训笔记/Day 1.md",
+    "王道计算机组成原理笔记 .md",
+    "README.md",
+    "实训笔记",
+    "C++/未命名.md",
     "C++",
     "线性代数的本质/图片/Pasted image 20250402213952.png",
     "2025-04-02.md",
@@ -209,7 +212,6 @@
     "线性代数的本质/games101_202504022255_16751.md",
     "Pasted image 20250402213907.png",
     "Pasted image 20250402213917.png",
-    "README.md",
     "线性代数的本质/序言.md",
     "欢迎.md",
     "线性代数的本质"
